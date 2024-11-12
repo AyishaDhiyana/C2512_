@@ -9,4 +9,4 @@ pseudocode :
  if number is greater than 25 
  print number is greater
  otherwise
- print number is not greater 
+ print number is not greater
